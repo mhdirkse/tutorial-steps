@@ -1,0 +1,6 @@
+{
+  "build": "../result/story.md",
+  "files": [
+    "../build/story.md"
+  ]
+}
