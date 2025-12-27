@@ -1,0 +1,12 @@
+- file:
+    path: item.svg
+    change:
+        - old: 1
+          new: 2
+          highlight: true
+          snippet: addRect
+- snippet:
+    name: addRect
+    markup: xml
+    before: 10
+    after: 10
